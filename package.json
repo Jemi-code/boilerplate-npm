@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jemi-code",
 	"description": "Learning from free code camp",
+	"keywords": ["learning", "backend", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
