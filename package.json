@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jemi-code",
+	"description": "Learning from free code camp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
